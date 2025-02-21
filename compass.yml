@@ -1,0 +1,16 @@
+name: Apenowpaylater
+id: ari:cloud:compass:b05bd447-01d9-48bb-8a0e-544f753425d1:component/bfc60ef0-e6fa-4ca2-96b4-363306fd4428/e7c8543e-fa09-408e-abd3-6b79e73f7d8f
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/https-github-com-okeamah/Apenowpaylater
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
